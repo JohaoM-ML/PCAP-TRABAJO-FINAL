@@ -437,15 +437,14 @@ Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👥 Autores
 
-- **Desarrollador Principal:** [Tu Nombre]
-- **Análisis Económico:** [Tu Nombre]
-- **Visualización de Datos:** [Tu Nombre]
+- **Desarrollador Principal:** [Johao Mendoza]
+- **Análisis Económico:** [Johao Mendoza]
+- **Visualización de Datos:** [Johao Mendoza]
 
 ## 📞 Contacto
 
-- **Email:** [tu-email@ejemplo.com]
-- **GitHub:** [tu-usuario-github]
-- **LinkedIn:** [tu-perfil-linkedin]
+- **Email:** [jr.mendozaf@alum.up.edu.pe]
+- **LinkedIn:** [linkedin.com/in/johao-mendoza-42671531a]
 
 ## 🙏 Agradecimientos
 
@@ -471,4 +470,4 @@ Este proyecto representa un sistema completo de análisis macroeconómico que co
 
 ---
 
-*Última actualización: Diciembre 2024*
+*Última actualización: Octubre 2025*
